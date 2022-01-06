@@ -1,0 +1,139 @@
+2021-04-03 13:21:46.974 [main] INFO  com.company.test - program started
+2021-04-03 13:22:44.242 [main] INFO  com.company.test - program started
+2021-04-03 13:23:08.821 [main] INFO  com.company.Main - program started
+2021-04-03 13:23:23.294 [main] INFO  com.company.Main - program started
+2021-04-03 13:23:35.209 [main] INFO  com.company.Main - program started
+2021-04-03 13:25:20.947 [main] INFO  com.company.Main - program started
+2021-04-03 13:25:26.824 [main] INFO  com.company.Main - program started
+2021-04-03 13:29:15.914 [main] INFO  com.company.Main - program started2
+2021-04-03 13:30:03.009 [main] INFO  com.company.Main - program started2
+2021-04-03 13:34:34.333 [main] INFO  com.company.Main - program started
+2021-04-03 13:35:22.222 [main] INFO  com.company.Start - file created for amir
+2021-04-03 13:37:48.451 [main] INFO  com.company.Main - program started
+2021-04-03 13:37:54.564 [main] INFO  com.company.Start - amirlogged in successfully
+2021-04-03 13:43:12.855 [main] INFO  com.company.Main - program started
+2021-04-03 13:43:45.921 [main] INFO  com.company.Start - asfdafdsafdslogged in successfully
+2021-04-03 13:49:37.268 [main] INFO  com.company.Main - program started
+2021-04-03 13:50:08.063 [main] INFO  com.company.Start - asfdafdsafdslogged in successfully
+2021-04-03 13:50:17.340 [main] INFO  com.company.PersonalPage - asfdafdsafdsadded a tweet
+2021-04-03 13:50:35.411 [main] INFO  com.company.Main - program started
+2021-04-03 13:50:54.378 [main] INFO  com.company.Start - binaryboylogged in successfully
+2021-04-03 13:51:13.111 [main] INFO  com.company.PersonalPage - binaryboyadded a tweet
+2021-04-03 13:51:27.388 [main] INFO  com.company.Settings - binaryboylogged out
+2021-04-03 13:51:48.574 [main] INFO  com.company.Start - asfdafdsafdslogged in successfully
+2021-04-03 13:52:34.271 [main] INFO  com.company.Main - program started
+2021-04-03 13:52:57.112 [main] INFO  com.company.Start - binaryboylogged in successfully
+2021-04-03 13:53:06.605 [main] INFO  com.company.PersonalPage - binaryboyadded a tweet
+2021-04-03 13:53:40.871 [main] INFO  com.company.Main - program started
+2021-04-03 13:54:03.790 [main] INFO  com.company.Start - asfdafdsafdslogged in successfully
+2021-04-03 13:54:30.491 [main] INFO  com.company.Main - program started
+2021-04-03 13:54:59.949 [main] INFO  com.company.Start - asfdafdsafdslogged in successfully
+2021-04-03 17:11:18.017 [main] INFO  com.company.Main - program started
+2021-04-03 17:11:38.656 [main] INFO  com.company.Start - file created for a
+2021-04-03 17:11:56.232 [main] INFO  com.company.PersonalPage - aadded a tweet
+2021-04-03 17:15:01.693 [main] INFO  com.company.PersonalPage - aadded a tweet
+2021-04-03 17:15:22.749 [main] INFO  com.company.Main - program started
+2021-04-03 17:15:44.636 [main] INFO  com.company.Start - file created for b
+2021-04-03 17:16:03.861 [main] INFO  com.company.PersonalPage - badded a tweet
+2021-04-03 17:23:47.882 [main] INFO  com.company.Main - program started
+2021-04-03 17:24:47.885 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 17:25:25.417 [main] INFO  com.company.Main - program started
+2021-04-03 17:25:33.579 [main] INFO  com.company.Start - a logged in successfully 
+2021-04-03 17:26:14.009 [main] INFO  com.company.Main - program started
+2021-04-03 17:26:20.957 [main] INFO  com.company.Start - a logged in successfully 
+2021-04-03 17:27:12.510 [main] INFO  com.company.Main - program started
+2021-04-03 17:30:10.699 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 17:45:06.433 [main] INFO  com.company.Main - program started
+2021-04-03 17:45:13.657 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 17:46:22.030 [main] INFO  com.company.Main - program started
+2021-04-03 17:47:06.462 [main] INFO  com.company.Main - program started
+2021-04-03 17:47:12.866 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 17:48:16.039 [main] INFO  com.company.Main - program started
+2021-04-03 17:48:42.507 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 17:53:38.287 [main] INFO  com.company.Main - program started
+2021-04-03 17:53:45.383 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 17:57:55.744 [main] INFO  com.company.Main - program started
+2021-04-03 17:58:03.590 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 18:01:12.692 [main] INFO  com.company.Main - program started
+2021-04-03 18:01:45.618 [main] INFO  com.company.Start - file created for c
+2021-04-03 18:01:57.455 [main] INFO  com.company.Main - program started
+2021-04-03 18:02:08.632 [main] INFO  com.company.Start - c logged in successfully 
+2021-04-03 18:02:36.835 [main] INFO  com.company.Main - program started
+2021-04-03 18:54:06.268 [main] INFO  com.company.Main - program started
+2021-04-03 19:10:52.642 [main] INFO  com.company.Main - program started
+2021-04-03 19:10:57.522 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 19:28:20.474 [main] INFO  com.company.Main - program started
+2021-04-03 19:28:37.310 [main] INFO  com.company.Main - program started
+2021-04-03 19:28:43.843 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 19:31:48.191 [main] INFO  com.company.Main - program started
+2021-04-03 19:40:36.645 [main] INFO  com.company.Main - program started
+2021-04-03 19:41:11.182 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 19:41:43.392 [main] INFO  com.company.TimeLine - badded a comment
+2021-04-03 20:24:01.814 [main] INFO  com.company.Main - program started
+2021-04-03 20:24:25.947 [main] INFO  com.company.Start - file created for a
+2021-04-03 20:24:30.616 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:24:41.600 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:24:41.606 [main] INFO  com.company.PersonalPage - aadded a tweet
+2021-04-03 20:25:01.388 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:25:01.397 [main] INFO  com.company.PersonalPage - aadded a tweet
+2021-04-03 20:25:27.756 [main] INFO  com.company.Main - program started
+2021-04-03 20:25:56.042 [main] INFO  com.company.Start - file created for b
+2021-04-03 20:28:04.249 [main] INFO  com.company.Main - program started
+2021-04-03 20:28:14.731 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 20:28:14.738 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:28:37.078 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:28:37.089 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:34:26.042 [main] INFO  com.company.Main - program started
+2021-04-03 20:34:33.937 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 20:34:33.944 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:37:04.747 [main] INFO  com.company.Main - program started
+2021-04-03 20:37:12.784 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 20:37:12.792 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:38:12.348 [main] INFO  com.company.Main - program started
+2021-04-03 20:38:18.314 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 20:38:18.321 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:38:49.849 [main] INFO  com.company.Tweet - file created for tweet
+2021-04-03 20:38:49.855 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:39:32.755 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:39:32.765 [main] INFO  com.company.Tweet - file created for tweet
+2021-04-03 20:39:32.767 [main] INFO  com.company.Tweet - file created for tweet
+2021-04-03 20:39:32.770 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:39:32.774 [main] INFO  com.company.Explorer - b added a comment 
+2021-04-03 20:40:21.178 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:42:32.669 [main] INFO  com.company.Main - program started
+2021-04-03 20:42:44.349 [main] INFO  com.company.Start - a logged in successfully 
+2021-04-03 20:42:44.359 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:43:20.060 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:51:56.192 [main] INFO  com.company.Main - program started
+2021-04-03 20:52:43.539 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 20:52:43.547 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:53:28.451 [main] INFO  com.company.Main - program started
+2021-04-03 20:53:39.150 [main] INFO  com.company.Start - a logged in successfully 
+2021-04-03 20:53:39.157 [main] INFO  com.company.Main - file created for user
+2021-04-03 20:56:10.446 [main] INFO  com.company.Main - program started
+2021-04-03 20:56:16.814 [main] INFO  com.company.Start - a logged in successfully 
+2021-04-03 20:56:16.824 [main] INFO  com.company.Main - file created for user
+2021-04-03 21:02:55.164 [main] INFO  com.company.Main - program started
+2021-04-03 21:03:05.270 [main] INFO  com.company.Start - a logged in successfully 
+2021-04-03 21:03:05.280 [main] INFO  com.company.Main - file created for user
+2021-04-03 21:03:40.115 [main] INFO  com.company.Main - program started
+2021-04-03 21:03:46.885 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 21:03:46.895 [main] INFO  com.company.Main - file created for user
+2021-04-03 21:21:18.839 [main] INFO  com.company.Main - program started
+2021-04-03 21:21:31.776 [main] INFO  com.company.Start - a logged in successfully 
+2021-04-03 21:21:31.786 [main] INFO  com.company.Main - file created for user
+2021-04-03 21:22:08.339 [main] INFO  com.company.Main - program started
+2021-04-03 21:22:16.341 [main] INFO  com.company.Start - a logged in successfully 
+2021-04-03 21:22:16.350 [main] INFO  com.company.Main - file created for user
+2021-04-03 21:22:25.873 [main] INFO  com.company.Main - program started
+2021-04-03 21:22:31.705 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 21:22:31.713 [main] INFO  com.company.Main - file created for user
+2021-04-03 21:23:51.661 [main] INFO  com.company.Main - program started
+2021-04-03 21:23:57.758 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 21:23:57.767 [main] INFO  com.company.Main - file created for user
+2021-04-03 22:08:16.386 [main] INFO  com.company.Main - program started
+2021-04-03 22:08:29.666 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 22:08:29.679 [main] INFO  com.company.Main - file created for user
+2021-04-03 22:08:42.886 [main] INFO  com.company.Main - program started
+2021-04-03 22:09:00.730 [main] INFO  com.company.Start - b logged in successfully 
+2021-04-03 22:09:00.737 [main] INFO  com.company.Main - file created for user
